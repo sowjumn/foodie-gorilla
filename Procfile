@@ -1,1 +1,1 @@
-web: food-gorilla
+web: foodie-gorilla
